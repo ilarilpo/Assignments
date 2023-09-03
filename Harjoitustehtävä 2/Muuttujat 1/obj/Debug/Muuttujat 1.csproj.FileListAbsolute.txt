@@ -1,0 +1,8 @@
+C:\Users\ilari\Ohjelmointi\Muuttujat 1\bin\Debug\Muuttujat 1.exe.config
+C:\Users\ilari\Ohjelmointi\Muuttujat 1\bin\Debug\Muuttujat 1.exe
+C:\Users\ilari\Ohjelmointi\Muuttujat 1\bin\Debug\Muuttujat 1.pdb
+C:\Users\ilari\Ohjelmointi\Muuttujat 1\obj\Debug\Muuttujat 1.csproj.AssemblyReference.cache
+C:\Users\ilari\Ohjelmointi\Muuttujat 1\obj\Debug\Muuttujat 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilari\Ohjelmointi\Muuttujat 1\obj\Debug\Muuttujat 1.csproj.CoreCompileInputs.cache
+C:\Users\ilari\Ohjelmointi\Muuttujat 1\obj\Debug\Muuttujat 1.exe
+C:\Users\ilari\Ohjelmointi\Muuttujat 1\obj\Debug\Muuttujat 1.pdb

@@ -1,0 +1,8 @@
+C:\Users\ilari\Ohjelmointi\Harjoitustehtävä 3\asd\bin\Debug\asd.exe.config
+C:\Users\ilari\Ohjelmointi\Harjoitustehtävä 3\asd\bin\Debug\asd.exe
+C:\Users\ilari\Ohjelmointi\Harjoitustehtävä 3\asd\bin\Debug\asd.pdb
+C:\Users\ilari\Ohjelmointi\Harjoitustehtävä 3\asd\obj\Debug\asd.csproj.AssemblyReference.cache
+C:\Users\ilari\Ohjelmointi\Harjoitustehtävä 3\asd\obj\Debug\asd.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilari\Ohjelmointi\Harjoitustehtävä 3\asd\obj\Debug\asd.csproj.CoreCompileInputs.cache
+C:\Users\ilari\Ohjelmointi\Harjoitustehtävä 3\asd\obj\Debug\asd.exe
+C:\Users\ilari\Ohjelmointi\Harjoitustehtävä 3\asd\obj\Debug\asd.pdb

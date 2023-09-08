@@ -1,0 +1,8 @@
+C:\Users\ilari\Ohjelmointi\XAMK C#-OHJELMOINNIN PERUSTEET (avoin AMK 2023)\Harjoitustehtävä 4\TEHTÄVÄ 4\bin\Debug\TEHTÄVÄ 4.exe.config
+C:\Users\ilari\Ohjelmointi\XAMK C#-OHJELMOINNIN PERUSTEET (avoin AMK 2023)\Harjoitustehtävä 4\TEHTÄVÄ 4\bin\Debug\TEHTÄVÄ 4.exe
+C:\Users\ilari\Ohjelmointi\XAMK C#-OHJELMOINNIN PERUSTEET (avoin AMK 2023)\Harjoitustehtävä 4\TEHTÄVÄ 4\bin\Debug\TEHTÄVÄ 4.pdb
+C:\Users\ilari\Ohjelmointi\XAMK C#-OHJELMOINNIN PERUSTEET (avoin AMK 2023)\Harjoitustehtävä 4\TEHTÄVÄ 4\obj\Debug\TEHTÄVÄ 4.csproj.AssemblyReference.cache
+C:\Users\ilari\Ohjelmointi\XAMK C#-OHJELMOINNIN PERUSTEET (avoin AMK 2023)\Harjoitustehtävä 4\TEHTÄVÄ 4\obj\Debug\TEHTÄVÄ 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilari\Ohjelmointi\XAMK C#-OHJELMOINNIN PERUSTEET (avoin AMK 2023)\Harjoitustehtävä 4\TEHTÄVÄ 4\obj\Debug\TEHTÄVÄ 4.csproj.CoreCompileInputs.cache
+C:\Users\ilari\Ohjelmointi\XAMK C#-OHJELMOINNIN PERUSTEET (avoin AMK 2023)\Harjoitustehtävä 4\TEHTÄVÄ 4\obj\Debug\TEHTÄVÄ 4.exe
+C:\Users\ilari\Ohjelmointi\XAMK C#-OHJELMOINNIN PERUSTEET (avoin AMK 2023)\Harjoitustehtävä 4\TEHTÄVÄ 4\obj\Debug\TEHTÄVÄ 4.pdb

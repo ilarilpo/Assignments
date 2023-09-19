@@ -1,0 +1,8 @@
+C:\Users\ilari\Ohjelmointi\XAMK C#-OHJELMOINNIN PERUSTEET (avoin AMK 2023)\Harjoitustehtävä 4\Harjoitustehtävä 5 osa 1\bin\Debug\Harjoitustehtävä 5 osa 1.exe.config
+C:\Users\ilari\Ohjelmointi\XAMK C#-OHJELMOINNIN PERUSTEET (avoin AMK 2023)\Harjoitustehtävä 4\Harjoitustehtävä 5 osa 1\bin\Debug\Harjoitustehtävä 5 osa 1.exe
+C:\Users\ilari\Ohjelmointi\XAMK C#-OHJELMOINNIN PERUSTEET (avoin AMK 2023)\Harjoitustehtävä 4\Harjoitustehtävä 5 osa 1\bin\Debug\Harjoitustehtävä 5 osa 1.pdb
+C:\Users\ilari\Ohjelmointi\XAMK C#-OHJELMOINNIN PERUSTEET (avoin AMK 2023)\Harjoitustehtävä 4\Harjoitustehtävä 5 osa 1\obj\Debug\Harjoitustehtävä 5 osa 1.csproj.AssemblyReference.cache
+C:\Users\ilari\Ohjelmointi\XAMK C#-OHJELMOINNIN PERUSTEET (avoin AMK 2023)\Harjoitustehtävä 4\Harjoitustehtävä 5 osa 1\obj\Debug\Harjoitustehtävä 5 osa 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilari\Ohjelmointi\XAMK C#-OHJELMOINNIN PERUSTEET (avoin AMK 2023)\Harjoitustehtävä 4\Harjoitustehtävä 5 osa 1\obj\Debug\Harjoitustehtävä 5 osa 1.csproj.CoreCompileInputs.cache
+C:\Users\ilari\Ohjelmointi\XAMK C#-OHJELMOINNIN PERUSTEET (avoin AMK 2023)\Harjoitustehtävä 4\Harjoitustehtävä 5 osa 1\obj\Debug\Harjoitustehtävä 5 osa 1.exe
+C:\Users\ilari\Ohjelmointi\XAMK C#-OHJELMOINNIN PERUSTEET (avoin AMK 2023)\Harjoitustehtävä 4\Harjoitustehtävä 5 osa 1\obj\Debug\Harjoitustehtävä 5 osa 1.pdb
